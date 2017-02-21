@@ -1,0 +1,1 @@
+var chuknuStrURL=window.location.href;if(chuknuStrURL.match(/com\/thank-you/g))var chuknu="";
